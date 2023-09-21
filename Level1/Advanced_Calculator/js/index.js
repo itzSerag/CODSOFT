@@ -3,9 +3,11 @@ TODO:
     Limit number input
     Disallow . from being entered multiple times
     Clean up structure
+
+    comming soon
 */
 
-// IIFE 
+// IIFE module pattern
 
 (
   
@@ -13,13 +15,11 @@ TODO:
     "use strict";
   
     // Shortcut to get elements
-    var el = function(element) {
-      if (element.charAt(0) === "#") { // If passed an ID...
-        return document.querySelector(element); // ... returns single element
-      }
-  
-      return document.querySelectorAll(element); // Otherwise, returns a nodelist
-    };
+    const el = function(element) {
+      return (element.charAt(0) === "#") ? 
+             document.querySelector(element) : 
+             document.querySelectorAll(element);
+  };
   
     // Variables
     var viewer = el("#viewer"), // Calculator screen where result is displayed
