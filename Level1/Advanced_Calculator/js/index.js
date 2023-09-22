@@ -9,11 +9,7 @@ TODO:
 
 // IIFE module pattern
 
-(
-  
-  function() {
-    "use strict";
-  
+
     // Shortcut to get elements
     const el = function(element) {
       return (element.charAt(0) === "#") ? 
@@ -135,5 +131,4 @@ TODO:
       window.location = window.location;
     };
   
-  }()
-);
+ 
