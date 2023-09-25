@@ -2,7 +2,7 @@
 
 
 <> Portfolio Project : <br>
-- itzserag.github.io/CODSOFT/Portfolio/index.html <br>
+- <a href="itzserag.github.io/CODSOFT/Portfolio/index.html">itzserag.github.io/CODSOFT/Portfolio/index.html <a><br>
 
 
 <> LandinPageProject : <br>
@@ -10,4 +10,4 @@
 
 
 <> Advanced Calculator : <br>
-- itzserag.github.io/CODSOFT/Advanced_Calculator/index.html <br>
+- <a href="itzserag.github.io/CODSOFT/Advanced_Calculator/index.html">itzserag.github.io/CODSOFT/Advanced_Calculator/index.html <a><br>
