@@ -2,7 +2,7 @@
 
 
 <> Portfolio Project : <br>
-- <a href="Level1//Portfolio/index.html">itzserag.github.io/CODSOFT/Portfolio/index.html <a><br>
+- <a href="Level1//Portfolio/index.html" target="_blank">itzserag.github.io/CODSOFT/Portfolio/index.html <a><br>
 
 
 <> LandinPageProject : <br>
