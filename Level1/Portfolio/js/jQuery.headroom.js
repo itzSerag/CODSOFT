@@ -1,8 +1,3 @@
-(function($) {
-
-  if(!$) {
-    return;
-  }
 
   ////////////
   // Plugin //
@@ -39,5 +34,3 @@
     var $this = $(this);
     $this.headroom($this.data());
   });
-
-}(window.Zepto || window.jQuery));

@@ -7,10 +7,7 @@ TODO:
     comming soon
 */
 
-// IIFE module pattern
-
-
-    // Shortcut to get elements
+    // Shortcut to get elements by el 
     const el = function(element) {
       return (element.charAt(0) === "#") ? 
              document.querySelector(element) : 
@@ -26,6 +23,8 @@ TODO:
       oldNum = "", // First number
       resultNum, // Result
       operator; // Batman <><>
+
+      
   
     // When: Number is clicked. Get the current number selected
     var setNum = function() {
